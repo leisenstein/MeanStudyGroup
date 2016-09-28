@@ -6,5 +6,5 @@ Assets
 
 Notes 
 * Hosting on Heroku
-** Use PHP Buildpack
-** Create index.php and have it redirect to index.html
+* Use PHP Buildpack
+* Create index.php and have it redirect to index.html
