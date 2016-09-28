@@ -1,7 +1,7 @@
 # MeanStudyGroup
 
-Assets 
-- https://github.com/puikinsh/gentelella
+> **Assets :**
+> - https://github.com/puikinsh/gentelella
 
 
 > **Notes:** 
