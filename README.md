@@ -1,5 +1,5 @@
 # MeanStudyGroup
 
-# Assets
+Assets 
 * https://github.com/puikinsh/gentelella
 
