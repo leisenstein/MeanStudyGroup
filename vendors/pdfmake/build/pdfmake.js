@@ -2064,7 +2064,7 @@
 	 * var docDefinition = {
 	 * 	info: {
 	 *		title: 'awesome Document',
-	 *		author: 'john doe',
+	 *		author: 'Mean John',
 	 *		subject: 'subject of document',
 	 *		keywords: 'keywords for document',
 	 * 	},
